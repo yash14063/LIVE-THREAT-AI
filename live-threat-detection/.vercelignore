@@ -1,0 +1,51 @@
+# Python backend files (not needed for Vercel deployment)
+main.py
+database.py
+schemas.py
+requirements.txt
+run.sh
+run.bat
+Dockerfile
+docker-compose.yml
+Makefile
+
+# Python and virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Git
+.git/
+.gitignore
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# AI detectors (optional - can be referenced externally)
+ai_detectors/
+
+# Documentation (optional)
+README.md
+SETUP.md
+START.md
+FILES_CREATED.md

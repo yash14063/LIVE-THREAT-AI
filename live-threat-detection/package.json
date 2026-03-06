@@ -1,0 +1,22 @@
+{
+  "name": "threatsense-os-frontend",
+  "version": "1.0.0",
+  "description": "ThreatSense OS - Enterprise Threat Detection Dashboard (Frontend)",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Deploy to Vercel with: vercel'"
+  },
+  "keywords": [
+    "threat-detection",
+    "security",
+    "ai",
+    "dashboard",
+    "vercel"
+  ],
+  "author": "ThreatSense Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
